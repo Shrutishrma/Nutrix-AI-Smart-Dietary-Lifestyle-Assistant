@@ -1,0 +1,619 @@
+[
+    {
+        "id": "stomach_ache",
+        "condition": "Stomach Ache",
+        "synonyms": [
+            "stomach ache",
+            "stomach pain",
+            "abdominal pain",
+            "tummy ache",
+            "pait dard",
+            "stomak pain",
+            "stomache ache",
+            "indigestion",
+            "bloating",
+            "gas"
+        ],
+        "allowed_food": [
+            "curd rice",
+            "khichdi",
+            "banana",
+            "toast",
+            "ginger tea",
+            "coconut water",
+            "idli",
+            "plain rice",
+            "moong dal soup"
+        ],
+        "avoid_food": [
+            "spicy food",
+            "fried items",
+            "fried food",
+            "milk",
+            "cheese",
+            "caffeine",
+            "alcohol",
+            "raw vegetables"
+        ]
+    },
+    {
+        "id": "fever",
+        "condition": "Fever",
+        "synonyms": [
+            "fever",
+            "fevr",
+            "high temperature",
+            "flu",
+            "bukhar",
+            "viral",
+            "temperature",
+            "chills"
+        ],
+        "allowed_food": [
+            "khichdi",
+            "rasam",
+            "ginger tea",
+            "idli",
+            "coconut water",
+            "veg soup",
+            "chicken soup",
+            "porridge",
+            "daliya",
+            "boiled egg",
+            "fruit juice"
+        ],
+        "avoid_food": [
+            "biryani",
+            "cold coffee",
+            "ice cream",
+            "cold water",
+            "fried food",
+            "heavy meat",
+            "sugary drinks"
+        ]
+    },
+    {
+        "id": "headache",
+        "condition": "Headache",
+        "synonyms": [
+            "headache",
+            "headche",
+            "migraine",
+            "sar dard",
+            "sir dard"
+        ],
+        "allowed_food": [
+            "ginger tea",
+            "khichdi",
+            "coconut water",
+            "rasam",
+            "baked potato",
+            "spinach soup",
+            "watermelon",
+            "curd"
+        ],
+        "avoid_food": [
+            "coffee",
+            "alcohol",
+            "aged cheese",
+            "chocolate",
+            "processed msgs",
+            "artificial sweeteners"
+        ]
+    },
+    {
+        "id": "cold_cough",
+        "condition": "Cold & Cough",
+        "synonyms": [
+            "cold",
+            "cough",
+            "coldd and cough",
+            "sore throat",
+            "zukaam",
+            "khansi",
+            "runny nose",
+            "congestion",
+            "chest congestion",
+            "sinus"
+        ],
+        "allowed_food": [
+            "ginger tea",
+            "turmeric milk",
+            "hot soup",
+            "honey lemon water",
+            "rasam",
+            "khichdi",
+            "garlic soup"
+        ],
+        "avoid_food": [
+            "cold coffee",
+            "ice cream",
+            "cold items",
+            "cold drinks",
+            "curd",
+            "banana",
+            "fried food"
+        ]
+    },
+    {
+        "id": "diabetes",
+        "condition": "Diabetes",
+        "synonyms": [
+            "diabetes",
+            "diebetes",
+            "diabetis",
+            "high blood sugar",
+            "sugar",
+            "madhumeh"
+        ],
+        "allowed_food": [
+            "daliya",
+            "brown rice",
+            "oatmeal",
+            "moong dal",
+            "idli",
+            "ragi dosa",
+            "bitter gourd",
+            "jamun",
+            "methi",
+            "buttermilk",
+            "vegetable salad"
+        ],
+        "avoid_food": [
+            "white rice",
+            "fruit bowl",
+            "sugary items",
+            "sugar",
+            "sweets",
+            "potato",
+            "soda",
+            "fruit juice",
+            "maida"
+        ]
+    },
+    {
+        "id": "constipation",
+        "condition": "Constipation",
+        "synonyms": [
+            "constipation",
+            "constipatoin",
+            "kabz",
+            "hard stool"
+        ],
+        "allowed_food": [
+            "papaya",
+            "banana",
+            "oatmeal",
+            "poha",
+            "fruit bowl",
+            "daliya",
+            "figs",
+            "rasam",
+            "spinach",
+            "whole grains",
+            "dal"
+        ],
+        "avoid_food": [
+            "white rice",
+            "boiled egg",
+            "processed food",
+            "white bread",
+            "maida",
+            "meat",
+            "cheese"
+        ]
+    },
+    {
+        "id": "diarrhea",
+        "condition": "Diarrhea",
+        "synonyms": [
+            "diarrhea",
+            "diareha",
+            "loose motion",
+            "dast",
+            "upset stomach",
+            "food poisoning"
+        ],
+        "allowed_food": [
+            "curd rice",
+            "banana",
+            "idli",
+            "plain rice",
+            "coconut water",
+            "apple sauce",
+            "toast",
+            "white rice",
+            "poha",
+            "ors",
+            "buttermilk"
+        ],
+        "avoid_food": [
+            "spicy food",
+            "fried food",
+            "raw vegetables",
+            "milk",
+            "cheese",
+            "fatty food",
+            "vegetable soup",
+            "caffeine"
+        ]
+    },
+    {
+        "id": "jaundice",
+        "condition": "Jaundice",
+        "synonyms": [
+            "jaundice",
+            "piliya",
+            "yellow fever",
+            "hepatitis"
+        ],
+        "allowed_food": [
+            "coconut water",
+            "sugarcane juice",
+            "moong dal soup",
+            "plain rice",
+            "radish leaves juice",
+            "papaya",
+            "tomato juice",
+            "ginger tea",
+            "mixed vegetable sabzi",
+            "porridge"
+        ],
+        "avoid_food": [
+            "fried food",
+            "spicy food",
+            "oil",
+            "butter",
+            "ghee",
+            "alcohol",
+            "meat",
+            "egg"
+        ]
+    },
+    {
+        "id": "dengue",
+        "condition": "Dengue",
+        "synonyms": [
+            "dengue",
+            "dengue fever",
+            "breakbone fever"
+        ],
+        "allowed_food": [
+            "papaya leaf juice",
+            "coconut water",
+            "pomegranate",
+            "khichdi",
+            "spinach",
+            "orange",
+            "kiwi",
+            "porridge"
+        ],
+        "avoid_food": [
+            "spicy food",
+            "heavy meals",
+            "oily food",
+            "caffeine",
+            "processed food",
+            "non-vegetarian (heavy)"
+        ]
+    },
+    {
+        "id": "hypertension",
+        "condition": "Hypertension",
+        "synonyms": [
+            "hypertension",
+            "hipertension",
+            "high bp",
+            "high blood pressure",
+            "bp high"
+        ],
+        "allowed_food": [
+            "oatmeal",
+            "banana",
+            "moong dal",
+            "idli",
+            "curd rice",
+            "spinach",
+            "garlic",
+            "beetroot",
+            "oats",
+            "curd",
+            "watermelon",
+            "fish"
+        ],
+        "avoid_food": [
+            "salty foods",
+            "pickles",
+            "salt",
+            "papad",
+            "processed food",
+            "canned food",
+            "baking powder"
+        ]
+    },
+    {
+        "id": "cholesterol",
+        "condition": "Cholesterol",
+        "synonyms": [
+            "cholesterol",
+            "high cholesterol",
+            "bad cholesterol",
+            "ldl"
+        ],
+        "allowed_food": [
+            "oatmeal",
+            "daliya",
+            "moong dal",
+            "brown rice",
+            "fruit bowl",
+            "oats",
+            "garlic",
+            "green tea",
+            "nuts",
+            "avocado",
+            "grilled fish",
+            "beans",
+            "soy"
+        ],
+        "avoid_food": [
+            "fried food",
+            "red meat",
+            "butter",
+            "full fat dairy",
+            "palm oil",
+            "trans fats"
+        ]
+    },
+    {
+        "id": "anaemia",
+        "condition": "Anaemia",
+        "synonyms": [
+            "anaemia",
+            "anemia",
+            "low hemoglobin",
+            "khoon ki kami",
+            "pale"
+        ],
+        "allowed_food": [
+            "spinach soup",
+            "dal",
+            "pomegranate",
+            "dates",
+            "beetroot",
+            "spinach",
+            "red meat",
+            "jaggery",
+            "figs",
+            "liver",
+            "tofu"
+        ],
+        "avoid_food": [
+            "tea with meals",
+            "tea (with meals)",
+            "coffee (with meals)",
+            "calcium rich foods (with iron)"
+        ]
+    },
+    {
+        "id": "acidity",
+        "condition": "Acidity / GERD",
+        "synonyms": [
+            "acidity",
+            "acid reflux",
+            "gerd",
+            "heartburn",
+            "chest burn"
+        ],
+        "allowed_food": [
+            "curd rice",
+            "banana",
+            "oatmeal",
+            "idli",
+            "coconut water",
+            "ginger",
+            "aloe vera juice",
+            "melon",
+            "jeera rice",
+            "grilled chicken",
+            "egg whites",
+            "curd"
+        ],
+        "avoid_food": [
+            "spicy food",
+            "coffee",
+            "citrus",
+            "citrus fruits",
+            "chocolate",
+            "tomato",
+            "mint",
+            "carbonated drinks"
+        ]
+    },
+    {
+        "id": "typhoid",
+        "condition": "Typhoid",
+        "synonyms": [
+            "typhoid",
+            "enteric fever"
+        ],
+        "allowed_food": [
+            "khichdi",
+            "plain rice",
+            "moong dal soup",
+            "idli",
+            "curd rice",
+            "poha",
+            "white rice",
+            "porridge",
+            "fruit custard",
+            "boiled egg",
+            "honey",
+            "banana",
+            "coconut water"
+        ],
+        "avoid_food": [
+            "spicy food",
+            "fried food",
+            "raw vegetables",
+            "fiber rich food",
+            "oily food",
+            "butter",
+            "ghee"
+        ]
+    },
+    {
+        "id": "chickenpox",
+        "condition": "Chickenpox",
+        "synonyms": [
+            "chickenpox",
+            "chicken pox",
+            "mata",
+            "varicella",
+            "yellow pox",
+            "smallpox"
+        ],
+        "allowed_food": [
+            "neem leaf juice",
+            "coriander soup",
+            "carrot soup",
+            "curd",
+            "khichdi",
+            "coconut water",
+            "moong dal soup"
+        ],
+        "avoid_food": [
+            "salty food",
+            "spicy food",
+            "acidic food",
+            "hard food",
+            "nuts",
+            "chocolate"
+        ]
+    },
+    {
+        "id": "ulcer",
+        "condition": "Stomach Ulcer",
+        "synonyms": [
+            "ulcer",
+            "stomach ulcer",
+            "peptic ulcer"
+        ],
+        "allowed_food": [
+            "cabbage juice",
+            "honey",
+            "turmeric milk",
+            "yogurt",
+            "cauliflower",
+            "radish",
+            "apple"
+        ],
+        "avoid_food": [
+            "alcohol",
+            "smoking",
+            "spicy food",
+            "coffee",
+            "citrus fruits",
+            "red meat"
+        ]
+    },
+    {
+        "id": "pcos",
+        "condition": "PCOS",
+        "synonyms": [
+            "pcos",
+            "pcod",
+            "polycystic ovary syndrome"
+        ],
+        "allowed_food": [
+            "vegetable soup",
+            "grilled chicken",
+            "fish",
+            "berries",
+            "spinach",
+            "oats",
+            "nuts"
+        ],
+        "avoid_food": [
+            "sugar",
+            "white bread",
+            "pasta",
+            "fries",
+            "red meat",
+            "processed food"
+        ]
+    },
+    {
+        "id": "kidney_stone",
+        "condition": "Kidney Stones",
+        "synonyms": [
+            "kidney stone",
+            "pathri",
+            "renal stones"
+        ],
+        "allowed_food": [
+            "coconut water",
+            "citrus juices",
+            "lemonade",
+            "ragi dosa",
+            "basil",
+            "celery",
+            "kidney beans (rajma)"
+        ],
+        "avoid_food": [
+            "spinach",
+            "beetroot",
+            "chocolate",
+            "tea",
+            "nuts",
+            "excess salt",
+            "animal protein"
+        ]
+    },
+    {
+        "id": "thyroid",
+        "condition": "Hypothyroidism",
+        "synonyms": [
+            "hypothyroidism",
+            "thyroid",
+            "underactive thyroid"
+        ],
+        "allowed_food": [
+            "idli",
+            "brazil nuts",
+            "eggs",
+            "chicken",
+            "fish",
+            "curd rice",
+            "berries"
+        ],
+        "avoid_food": [
+            "soy",
+            "cabbage",
+            "cauliflower",
+            "broccoli",
+            "kale",
+            "processed food",
+            "gluten (sometimes)"
+        ]
+    },
+    {
+        "id": "tonsillitis",
+        "condition": "Tonsillitis",
+        "synonyms": [
+            "tonsillitis"
+        ],
+        "allowed_food": [
+            "milk",
+            "curd rice",
+            "khichdi",
+            "dal chawal",
+            "moong dal halwa",
+            "roti with ghee",
+            "haldi milk"
+        ],
+        "avoid_food": [
+            "spicy food",
+            "beverages with gas (e.g. soda, beer)"
+        ]
+    }
+]

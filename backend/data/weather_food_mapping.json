@@ -1,0 +1,203 @@
+{
+    "pleasant_mild": {
+        "comfort_foods": [
+            "biryani",
+            "paneer butter masala",
+            "dosa",
+            "chole bhature",
+            "pav bhaji",
+            "butter naan",
+            "dal makhani",
+            "paneer tikka"
+        ],
+        "healthy_options": [
+            "idli",
+            "upma",
+            "poha",
+            "curd rice",
+            "moong dal",
+            "rasam",
+            "vegetable soup",
+            "oatmeal"
+        ],
+        "traditional_foods": [
+            "thali",
+            "sambar rice",
+            "dal chawal",
+            "rajma chawal",
+            "khichdi",
+            "pesarattu",
+            "uttapam"
+        ],
+        "junk_food": [
+            "vada pav",
+            "samosa",
+            "pani puri",
+            "maggi",
+            "momos",
+            "pizza",
+            "burger"
+        ]
+    },
+    "rainy": {
+        "comfort_foods": [
+            "pakora",
+            "samosa",
+            "maggi",
+            "masala chai",
+            "vada pav",
+            "bhajiya",
+            "bread pakora",
+            "corn chaat"
+        ],
+        "healthy_options": [
+            "khichdi",
+            "rasam",
+            "ginger tea",
+            "moong dal soup",
+            "tomato soup",
+            "idli",
+            "upma"
+        ],
+        "traditional_foods": [
+            "pav bhaji",
+            "misal pav",
+            "poha",
+            "sabudana khichdi",
+            "thalipeeth"
+        ],
+        "junk_food": [
+            "pizza",
+            "momos",
+            "noodles",
+            "garlic bread",
+            "hot chocolate"
+        ]
+    },
+    "hot_sunny": {
+        "comfort_foods": [
+            "curd rice",
+            "buttermilk",
+            "lassi",
+            "cold coffee",
+            "fruit bowl",
+            "raita",
+            "cucumber salad"
+        ],
+        "healthy_options": [
+            "coconut water",
+            "lemon rice",
+            "poha",
+            "idli",
+            "green salad",
+            "sprouts chaat"
+        ],
+        "traditional_foods": [
+            "neer dosa",
+            "pakhala",
+            "thalipeeth",
+            "curd rice",
+            "sol kadhi"
+        ],
+        "junk_food": [
+            "kulfi",
+            "cold coffee",
+            "nimbu pani",
+            "pani puri"
+        ]
+    },
+    "humid_sticky": {
+        "comfort_foods": [
+            "curd rice",
+            "buttermilk",
+            "idli",
+            "upma",
+            "lemon rice",
+            "poha"
+        ],
+        "healthy_options": [
+            "coconut water",
+            "green tea",
+            "moong dal",
+            "sprouts",
+            "fruit salad"
+        ],
+        "traditional_foods": [
+            "neer dosa",
+            "idli sambar",
+            "pesarattu",
+            "uttapam",
+            "pongal"
+        ],
+        "junk_food": [
+            "kulfi",
+            "lassi",
+            "cold coffee"
+        ]
+    },
+    "cold_winter": {
+        "comfort_foods": [
+            "biryani",
+            "butter chicken",
+            "dal makhani",
+            "garlic naan",
+            "paneer tikka",
+            "hot chocolate"
+        ],
+        "healthy_options": [
+            "khichdi",
+            "rasam",
+            "tomato soup",
+            "ginger tea",
+            "turmeric milk",
+            "daliya"
+        ],
+        "traditional_foods": [
+            "sarson ka saag",
+            "makki di roti",
+            "gajar halwa",
+            "nihari",
+            "thukpa",
+            "paratha"
+        ],
+        "junk_food": [
+            "momos",
+            "pizza",
+            "maggi",
+            "samosa",
+            "pakora"
+        ]
+    },
+    "cloudy_gloomy": {
+        "comfort_foods": [
+            "biryani",
+            "pav bhaji",
+            "dal makhani",
+            "paneer butter masala",
+            "masala chai",
+            "maggi"
+        ],
+        "healthy_options": [
+            "khichdi",
+            "idli",
+            "upma",
+            "rasam",
+            "moong dal soup",
+            "poha"
+        ],
+        "traditional_foods": [
+            "rajma chawal",
+            "kadhi chawal",
+            "bisi bele bath",
+            "pongal",
+            "sambar rice"
+        ],
+        "junk_food": [
+            "samosa",
+            "pakora",
+            "vada pav",
+            "pizza",
+            "momos"
+        ]
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "weather_rules": [
+        {
+            "condition": "rainy",
+            "matches": [
+                "rain",
+                "drizzle",
+                "thunderstorm",
+                "mist"
+            ],
+            "biological_need": "Immunity & Warmth",
+            "boost_keywords": [
+                "soup",
+                "stew",
+                "hot",
+                "tea",
+                "chai",
+                "ginger",
+                "turmeric",
+                "steamed",
+                "warm",
+                "pakora",
+                "samosa",
+                "maggi",
+                "pizza",
+                "biryani"
+            ],
+            "penalty_keywords": [
+                "cold",
+                "ice",
+                "cooling"
+            ]
+        },
+        {
+            "condition": "high_humidity",
+            "threshold": {
+                "humidity": {
+                    "min": 75
+                }
+            },
+            "biological_need": "Digestive Support",
+            "boost_keywords": [
+                "light",
+                "ginger",
+                "pepper",
+                "roasted",
+                "lemon",
+                "bitter",
+                "soda",
+                "burger"
+            ],
+            "penalty_keywords": [
+                "heavy",
+                "sweets",
+                "rich"
+            ]
+        },
+        {
+            "condition": "hot_dry",
+            "threshold": {
+                "temp": {
+                    "min": 32
+                }
+            },
+            "matches": [
+                "sunny",
+                "hot",
+                "summer",
+                "clear sky",
+                "heat"
+            ],
+            "biological_need": "Hydration & Cooling",
+            "boost_keywords": [
+                "watermelon",
+                "mint",
+                "buttermilk",
+                "cucumber",
+                "coconut",
+                "cooling",
+                "juice",
+                "fresh",
+                "ice cream",
+                "cold",
+                "popsicle"
+            ],
+            "penalty_keywords": [
+                "spicy",
+                "red meat",
+                "salty"
+            ]
+        },
+        {
+            "condition": "hot_humid",
+            "threshold": {
+                "temp": {
+                    "min": 30
+                }
+            },
+            "matches": [
+                "humid",
+                "sticky",
+                "sweaty"
+            ],
+            "biological_need": "Electrolyte Balance & Lightness",
+            "boost_keywords": [
+                "curd rice",
+                "buttermilk",
+                "lemonade",
+                "sprouts",
+                "fruit",
+                "water",
+                "light",
+                "sushi",
+                "cold noodles"
+            ],
+            "penalty_keywords": [
+                "rich",
+                "creamy",
+                "heavy"
+            ]
+        },
+        {
+            "condition": "gloomy_clouds",
+            "threshold": {
+                "cloud_cover": {
+                    "min": 50
+                }
+            },
+            "matches": [
+                "cloudy",
+                "gloomy",
+                "gray",
+                "overcast"
+            ],
+            "biological_need": "Immunity & Mood Elevation",
+            "boost_keywords": [
+                "warm",
+                "nuts",
+                "seeds",
+                "tea",
+                "chai",
+                "coffee",
+                "soup",
+                "ginger",
+                "comfort food",
+                "pizza",
+                "pasta",
+                "ramen",
+                "waffles"
+            ],
+            "penalty_keywords": [
+                "cold",
+                "yogurt"
+            ]
+        },
+        {
+            "condition": "extreme_cold",
+            "threshold": {
+                "temp": {
+                    "min": 0,
+                    "max": 20
+                }
+            },
+            "biological_need": "Thermogenesis",
+            "boost_keywords": [
+                "hot",
+                "garlic",
+                "honey",
+                "ginger",
+                "soup",
+                "stew",
+                "oatmeal",
+                "warm",
+                "biryani",
+                "pasta",
+                "pizza",
+                "grilled cheese"
+            ],
+            "penalty_keywords": [
+                "cold",
+                "ice cream",
+                "smoothie"
+            ]
+        }
+    ]
+}

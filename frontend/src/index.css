@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --peach: #E8915A;
+  --peach-hover: #D47A44;
+  --peach-pale: #FAE8D8;
+  --forest: #3D6B4F;
+  --forest-pale: #D4EDE0;
+  --amber: #C9790A;
+  --amber-pale: #FEF0D0;
+  --text-primary: #1C1813;
+  --text-muted: #9A8A78;
+  --text-stone: #7A6E62;
+  --card-bg: rgba(255,253,250,0.92);
+  --card-border: rgba(0,0,0,0.04);
+  --card-shadow: 0 8px 40px rgba(40,25,10,0.06);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: #1C1813;
+  overflow-x: hidden;
+}
+
+.font-serif {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.font-sans {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Pulse animation */
+@keyframes pulse-dot {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.8); opacity: 0; }
+}
+
+.pulse-dot::after {
+  content: '';
+  position: absolute;
+  inset: -3px;
+  background: rgba(34, 165, 90, 0.35);
+  border-radius: 50%;
+  animation: pulse-dot 1.8s ease infinite;
+}
+
+/* Thin scrollbar on chat */
+.chat-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(200,178,130,0.3) transparent;
+}
+.chat-scroll::-webkit-scrollbar {
+  width: 4px;
+}
+.chat-scroll::-webkit-scrollbar-thumb {
+  background: rgba(200,178,130,0.3);
+  border-radius: 4px;
+}
+
+/* Macro bar animation */
+@keyframes grow-bar {
+  from { width: 0; }
+  to { width: var(--target-w); }
+}
+
+.macro-fill-anim {
+  animation: grow-bar 1.1s ease forwards;
+  animation-delay: 0.5s;
+  width: 0;
+}
+
+/* Card entrance animation */
+@keyframes card-in {
+  from { opacity: 0; transform: translateY(18px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.card-in-1 { animation: card-in 0.55s ease forwards; animation-delay: 0.1s; opacity: 0; }
+.card-in-2 { animation: card-in 0.55s ease forwards; animation-delay: 0.25s; opacity: 0; }
+.card-in-3 { animation: card-in 0.55s ease forwards; animation-delay: 0.4s; opacity: 0; }
+.card-in-4 { animation: card-in 0.55s ease forwards; animation-delay: 0.55s; opacity: 0; }
+.card-in-5 { animation: card-in 0.55s ease forwards; animation-delay: 0.7s; opacity: 0; }
+
+/* Ring progress transition */
+.ring-arc {
+  transition: stroke-dashoffset 1.2s ease;
+}
+
+/* Nearby list expand */
+.nearby-list {
+  overflow: hidden;
+  max-height: 0;
+  opacity: 0;
+  transition: max-height 0.35s ease, opacity 0.3s ease;
+}
+.nearby-list.open {
+  max-height: 800px;
+  opacity: 1;
+}
+
+/* Message animation */
+@keyframes msg-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.msg-anim {
+  animation: msg-in 0.4s ease forwards;
+}

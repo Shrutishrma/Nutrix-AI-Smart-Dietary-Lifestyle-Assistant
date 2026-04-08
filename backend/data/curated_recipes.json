@@ -1,0 +1,629 @@
+[
+    {
+        "name": "Moong Dal Pani",
+        "ingredients": [
+            "moong dal",
+            "turmeric",
+            "salt"
+        ],
+        "health_tag": "liver_friendly",
+        "instructions": [
+            "Wash and soak 1/4 cup yellow moong dal for 30 minutes. Drain.",
+            "Boil 2 cups water in a pan. Add the dal, pinch of turmeric, and salt.",
+            "Cook until the dal is very soft and mushy. Mash it well.",
+            "Adjust consistency with warm water if needed. Serve warm."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Curd Rice with Pomegranate",
+        "ingredients": [
+            "rice",
+            "curd",
+            "pomegranate"
+        ],
+        "health_tag": "stomach_friendly",
+        "instructions": [
+            "In a bowl, combine the cooled rice and yogurt.",
+            "Add lemon juice, turmeric powder, black pepper, and salt.",
+            "Mix well until the rice is coated evenly.",
+            "Gently fold in the pomegranate seeds and chopped cilantro.",
+            "Serve chilled. This recipe supports digestion and offers antioxidants."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Gooseberry_chitranna.jpg"
+    },
+    {
+        "name": "Stewed Apple",
+        "ingredients": [
+            "apple",
+            "cinnamon"
+        ],
+        "health_tag": "stomach_friendly",
+        "instructions": [
+            "Combine apples, water, honey, cinnamon, nutmeg, and lemon juice in a saucepan.",
+            "Bring to a simmer over medium heat.",
+            "Reduce heat to low, cover, and simmer for 15-20 minutes, or until apples are tender.",
+            "Serve warm. This can help soothe a sore throat or aid digestion."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Stewed_apples_in_saucepan.jpg"
+    },
+    {
+        "name": "Buttermilk (Chaas)",
+        "ingredients": [
+            "curd",
+            "water",
+            "cumin"
+        ],
+        "health_tag": "stomach_friendly",
+        "instructions": [
+            "Combine buttermilk, cold water, green chillies, ginger, and salt in a pitcher.",
+            "Mix well.",
+            "Add ice cubes if desired.",
+            "Serve chilled.  This is a soothing drink for digestion and a healthy alternative to sugary beverages."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Chaas.jpg"
+    },
+    {
+        "name": "Khichdi",
+        "ingredients": [
+            "rice",
+            "dal",
+            "ghee"
+        ],
+        "health_tag": "stomach_friendly",
+        "instructions": [
+            "Wash rice and dal thoroughly until water runs clear.",
+            "Heat ghee/oil in a pot over medium heat.",
+            "Add cumin seeds and let them splutter.",
+            "Add turmeric powder, ginger powder, and asafoetida (if using). Sauté for 30 seconds.",
+            "Add washed rice and dal to the pot. Stir for 2-3 minutes.",
+            "Add water and salt. Bring to a boil.",
+            "Reduce heat to low, cover the pot, and simmer for 20-25 minutes, or until rice and dal are cooked and mushy.",
+            "If using, add chopped vegetables during the last 10 minutes of cooking.",
+            "Garnish with fresh coriander leaves (optional). Serve hot."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Khichdi.jpg"
+    },
+    {
+        "name": "Methi Thepla",
+        "ingredients": [
+            "methi",
+            "whole wheat flour"
+        ],
+        "health_tag": "diabetic",
+        "instructions": [
+            "Heat oil in a pan.",
+            "Add methi seeds and saute until fragrant (about 2-3 minutes).",
+            "Add turmeric powder, ginger powder, asafoetida, and red chili powder (if using).  Saute for 30 seconds.",
+            "Add the flour and salt to the pan.",
+            "Roast the mixture continuously, stirring constantly, for 5-7 minutes, until golden brown and crispy.",
+            "Gradually add warm water, kneading to form a soft dough. Don't add too much water.",
+            "Divide the dough into small balls.",
+            "Flatten each ball into a thin disc (about 6 inches diameter).",
+            "Serve warm as a healthy snack or light meal."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Karela Juice",
+        "ingredients": [
+            "karela",
+            "lemon"
+        ],
+        "health_tag": "diabetic",
+        "instructions": [
+            "Wash the karela thoroughly under running water.",
+            "Cut the karela into small pieces – about 1-inch cubes is ideal.",
+            "Add the karela pieces to a blender along with 5-6 cups of water.",
+            "Blend until smooth. If needed, strain the juice through a fine-mesh sieve or cheesecloth to remove pulp.",
+            "Add lemon juice, ginger, and black salt (if using). Stir well.",
+            "Serve immediately for maximum nutritional benefits. Can be stored in the refrigerator for up to 24 hours."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Ragi Dosa",
+        "ingredients": [
+            "ragi flour",
+            "urad dal"
+        ],
+        "health_tag": "diabetic",
+        "instructions": [
+            "Mix ragi flour, water, and salt in a bowl. Let it ferment for 8-12 hours.",
+            "Add chopped vegetables (if using) to the fermented batter.",
+            "Heat a non-stick tawa or skillet.",
+            "Spread a thin layer of batter evenly.",
+            "Drizzle oil or ghee around the edges.",
+            "Cook until the dosa turns golden brown and crispy (about 2-3 minutes).",
+            "Serve hot with chutney or sambar."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Oats Upma",
+        "ingredients": [
+            "oats",
+            "vegetables"
+        ],
+        "health_tag": "diabetic",
+        "instructions": [
+            "Heat oil in a pan over medium heat.",
+            "Add mustard seeds, cumin seeds, and green chili (if using). Let it splutter.",
+            "Add turmeric powder and saute for a few seconds.",
+            "Add oats and semolina.  Roast for 5-7 minutes, stirring constantly, until lightly browned.",
+            "Add salt to taste.",
+            "Slowly pour hot water (about 2 cups) while stirring continuously to avoid lumps.  Add more water if needed for desired consistency.",
+            "Cook for 3-5 minutes, or until the oats and semolina are cooked and the upma is fluffy.",
+            "Garnish with chopped coriander leaves (if using) and serve hot."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Jamun Smoothie",
+        "ingredients": [
+            "jamun",
+            "curd"
+        ],
+        "health_tag": "diabetic",
+        "instructions": [
+            "Combine all ingredients in a blender.",
+            "Blend until smooth and creamy.",
+            "Add more milk if needed to reach desired consistency.",
+            "Taste and adjust sweetness if desired.",
+            "Pour into a glass and enjoy immediately."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Garlic Vegetable Soup",
+        "ingredients": [
+            "garlic",
+            "mixed vegetables"
+        ],
+        "health_tag": "cough_cold",
+        "instructions": [
+            "Heat olive oil in a large pot over medium heat.",
+            "Add garlic and onion; sauté for 2-3 minutes until fragrant.",
+            "Add carrots and celery; cook for another 5 minutes.",
+            "Pour in vegetable broth and add potatoes.",
+            "Bring to a boil, then reduce heat and simmer for 15-20 minutes, or until vegetables are tender.",
+            "Add zucchini, thyme, and pepper; simmer for 5 more minutes.",
+            "Season with salt to taste.",
+            "Garnish with fresh parsley (if desired) before serving."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Simple_vegetable_soup_2009.jpg"
+    },
+    {
+        "name": "Sprouts Salad",
+        "ingredients": [
+            "moong sprouts",
+            "lemon"
+        ],
+        "health_tag": "low_cholesterol",
+        "instructions": [
+            "Combine all ingredients in a large bowl.",
+            "Gently toss to coat.",
+            "Serve immediately for maximum freshness and enzyme activity.",
+            "This salad is best consumed soon after preparation to retain nutritional benefits."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Oats Idli",
+        "ingredients": [
+            "oats",
+            "rava"
+        ],
+        "health_tag": "low_cholesterol",
+        "instructions": [
+            "Soak rice and oats together with fenugreek seeds, turmeric, ginger and salt in water for 4-6 hours.",
+            "Drain the soaked mixture well.",
+            "Grind the mixture to a smooth batter. Add more water if needed to achieve a slightly thick consistency.",
+            "Grease idli molds with oil.",
+            "Pour the batter into the molds and steam for 15-20 minutes or until cooked through."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Bajra Roti",
+        "ingredients": [
+            "bajra flour"
+        ],
+        "health_tag": "low_cholesterol",
+        "instructions": [
+            "Mix bajra flour, salt, and optional ghee/oil in a bowl.",
+            "Gradually add water, mixing until a soft, pliable dough forms.",
+            "Knead the dough for 5-7 minutes.",
+            "Divide the dough into small balls (about 1-2 inches).",
+            "Roll each ball into a thin roti on a greased surface.",
+            "Cook on a hot tawa or griddle until golden brown on both sides."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Grilled Eggplant",
+        "ingredients": [
+            "eggplant",
+            "herbs"
+        ],
+        "health_tag": "low_cholesterol",
+        "instructions": [
+            "Preheat grill to medium heat.",
+            "In a bowl, toss eggplant slices with olive oil, garlic powder, smoked paprika, salt, and pepper.",
+            "Place eggplant on the grill and cook for 5-7 minutes per side, or until tender and grill marks appear.",
+            "Garnish with fresh herbs (if using) before serving."
+        ],
+        "image": "https://www.themealdb.com/images/media/meals/bopa2i1683209167.jpg"
+    },
+    {
+        "name": "Paneer Bhurji",
+        "ingredients": [
+            "paneer",
+            "onion",
+            "tomato",
+            "green chili",
+            "turmeric",
+            "salt"
+        ],
+        "health_tag": "high_protein_veg",
+        "instructions": [
+            "Crumble 200g paneer into small pieces.",
+            "Heat 1 tbsp oil. Sauté chopped onion until golden.",
+            "Add chopped tomato, green chili, turmeric, and salt. Cook for 3 minutes.",
+            "Add crumbled paneer. Mix well and cook on medium heat for 5 minutes.",
+            "Garnish with coriander leaves and serve hot with roti."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Soya Chunks Curry",
+        "ingredients": [
+            "soya chunks",
+            "tomato gravy",
+            "onion",
+            "ginger-garlic paste",
+            "spices"
+        ],
+        "health_tag": "high_protein_veg",
+        "instructions": [
+            "Soak soya chunks in hot water for 15 minutes. Squeeze out excess water.",
+            "Heat oil, sauté onion and ginger-garlic paste until golden.",
+            "Add pureed tomatoes, turmeric, coriander powder, and chili powder. Cook 5 minutes.",
+            "Add the soya chunks and mix well. Simmer for 10 minutes.",
+            "Garnish with coriander and serve with rice or roti."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Chickpea Salad",
+        "ingredients": [
+            "chickpeas",
+            "cucumber",
+            "tomato",
+            "onion",
+            "lemon juice",
+            "chaat masala"
+        ],
+        "health_tag": "high_protein_veg",
+        "instructions": [
+            "Boil 1 cup chickpeas until tender (or use canned, drained).",
+            "Dice cucumber, tomato, and onion finely.",
+            "Mix all vegetables with the chickpeas in a bowl.",
+            "Add lemon juice, chaat masala, salt, and a pinch of cumin powder.",
+            "Toss well and serve chilled."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Moong Dal Cheela",
+        "ingredients": [
+            "moong dal",
+            "green chili",
+            "ginger",
+            "salt",
+            "cumin"
+        ],
+        "health_tag": "high_protein_veg",
+        "instructions": [
+            "Soak 1 cup moong dal for 4 hours. Drain and grind to a smooth batter with water.",
+            "Add chopped green chili, grated ginger, cumin, and salt to the batter.",
+            "Heat a tawa and lightly grease with oil.",
+            "Pour a ladleful of batter and spread into a thin crepe.",
+            "Cook on medium heat until golden on both sides. Serve with green chutney."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Tofu Stir Fry",
+        "ingredients": [
+            "tofu",
+            "bell peppers",
+            "soy sauce",
+            "garlic",
+            "sesame oil"
+        ],
+        "health_tag": "high_protein_veg",
+        "instructions": [
+            "Press firm tofu and cut into cubes.",
+            "Heat sesame oil in a pan. Add minced garlic and sauté for 30 seconds.",
+            "Add tofu cubes and pan-fry until golden on all sides.",
+            "Add sliced bell peppers and stir-fry for 3 minutes.",
+            "Add soy sauce and a pinch of pepper. Toss well and serve hot."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Spinach Soup",
+        "ingredients": [
+            "spinach",
+            "onion",
+            "garlic",
+            "milk",
+            "butter",
+            "salt",
+            "pepper"
+        ],
+        "health_tag": "iron_rich",
+        "instructions": [
+            "Wash and blanch 2 cups spinach leaves. Drain and blend to a puree.",
+            "Heat butter, sauté chopped onion and garlic until soft.",
+            "Add the spinach puree and 1 cup water. Bring to a boil.",
+            "Add 2 tbsp milk, salt, and pepper. Simmer for 5 minutes.",
+            "Serve hot with a drizzle of cream if desired."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Creamy_Spinach_Soup.jpg"
+    },
+    {
+        "name": "Poha with Peanuts",
+        "ingredients": [
+            "poha (flattened rice)",
+            "peanuts",
+            "onion",
+            "mustard seeds",
+            "curry leaves",
+            "turmeric"
+        ],
+        "health_tag": "iron_rich",
+        "instructions": [
+            "Rinse poha in water and drain. Set aside for 5 minutes.",
+            "Heat oil. Add mustard seeds and let them splutter. Add curry leaves.",
+            "Add peanuts and roast until golden. Add chopped onion and sauté.",
+            "Add turmeric, salt, and the soaked poha. Mix gently.",
+            "Cook for 3 minutes. Squeeze lemon juice and garnish with coriander."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Date and Nut Laddu",
+        "ingredients": [
+            "dates",
+            "almonds",
+            "cashews",
+            "desiccated coconut"
+        ],
+        "health_tag": "iron_rich",
+        "instructions": [
+            "Remove seeds from 1 cup dates. Chop roughly.",
+            "Dry roast almonds and cashews. Let cool and chop coarsely.",
+            "Blend dates in a food processor until a sticky paste forms.",
+            "Mix the date paste with chopped nuts and a little desiccated coconut.",
+            "Roll into small balls. Coat with coconut. Refrigerate for 30 minutes before serving."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Beetroot Salad",
+        "ingredients": [
+            "beetroot",
+            "lemon juice",
+            "cumin powder",
+            "coriander",
+            "salt"
+        ],
+        "health_tag": "iron_rich",
+        "instructions": [
+            "Boil or steam 2 medium beetroots until tender. Peel and dice.",
+            "In a bowl, combine diced beetroot with finely chopped coriander.",
+            "Add lemon juice, cumin powder, and salt to taste.",
+            "Toss gently and let it marinate for 10 minutes.",
+            "Serve chilled as a side dish or snack."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Methi Paratha",
+        "ingredients": [
+            "methi (fenugreek leaves)",
+            "wheat flour",
+            "salt",
+            "ajwain",
+            "oil"
+        ],
+        "health_tag": "iron_rich",
+        "instructions": [
+            "Wash and finely chop 1 cup fresh methi leaves.",
+            "Mix wheat flour, methi, salt, ajwain, and 1 tsp oil. Knead into a soft dough with water.",
+            "Divide dough into balls and roll into flat rounds.",
+            "Cook on a hot tawa with a little ghee/oil until golden spots appear on both sides.",
+            "Serve hot with curd or pickle."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Dal Chawal",
+        "ingredients": [
+            "tur dal",
+            "rice",
+            "turmeric",
+            "cumin",
+            "ghee"
+        ],
+        "health_tag": "stomach_friendly",
+        "instructions": [
+            "Wash rice and dal separately. Pressure cook dal with turmeric and salt until soft.",
+            "Cook rice in a separate pot or pressure cooker until fluffy.",
+            "In a small pan, heat ghee and add cumin seeds. When they splutter, pour this tempering over the cooked dal.",
+            "Serve hot dal with the cooked rice. This is a complete, easy-to-digest protein source."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dal_chawal.JPG"
+    },
+    {
+        "name": "Lauki Sabji with Roti",
+        "ingredients": [
+            "lauki (bottle gourd)",
+            "whole wheat flour",
+            "cumin",
+            "turmeric"
+        ],
+        "health_tag": "fever_recovery",
+        "instructions": [
+            "Peel and chop lauki into small cubes. Sauté in a pan with cumin seeds and turmeric.",
+            "Add a little water, cover and cook until soft and mushy.",
+            "Knead whole wheat flour into a soft dough and roll into rotis.",
+            "Cook rotis on a flat griddle (tawa) until done. Serve hot with the lauki sabji."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lauki_ke_Pakore.jpg"
+    },
+    {
+        "name": "Ragi Roti with Mixed Veg",
+        "ingredients": [
+            "ragi flour",
+            "beans",
+            "carrot",
+            "peas"
+        ],
+        "health_tag": "diabetic",
+        "instructions": [
+            "Mix ragi flour with warm water and a pinch of salt to make a soft dough.",
+            "Roll into flat rotis and cook on a tawa with minimal oil.",
+            "Sauté chopped beans, carrots, and peas with light spices until tender.",
+            "Serve the nutrient-dense ragi roti with the fiber-rich mixed vegetable curry."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Dal Palak (Spinach Dal)",
+        "ingredients": [
+            "spinach",
+            "moong dal",
+            "garlic",
+            "lemon juice"
+        ],
+        "health_tag": "iron_rich",
+        "instructions": [
+            "Cook moong dal with turmeric until soft.",
+            "Sauté chopped spinach with garlic in a little oil until it wilts.",
+            "Mix the cooked dal and spinach together. Add salt and a squeeze of lemon juice (vitamin C helps iron absorption).",
+            "Serve warm with rice or roti."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Ginger Tea",
+        "ingredients": [
+            "ginger",
+            "tea leaves",
+            "water",
+            "honey"
+        ],
+        "health_tag": "cough_cold",
+        "instructions": [
+            "Boil 1 cup of water with a 1-inch piece of crushed fresh ginger for 5 minutes.",
+            "Add tea leaves (optional) and simmer for another minute.",
+            "Strain into a cup and add honey if desired.",
+            "Sip slowly to relieve bloating, nausea, or indigestion."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/YELLOW_GINGER_TEA_WITH_HONEY.jpg"
+    },
+    {
+        "name": "Moong Dal Soup",
+        "ingredients": [
+            "moong dal",
+            "ginger",
+            "turmeric",
+            "black pepper"
+        ],
+        "health_tag": "stomach_friendly",
+        "instructions": [
+            "Boil washed moong dal with turmeric and crushed ginger in plenty of water.",
+            "Cook until the dal is completely dissolved into the water.",
+            "Strain if you prefer a clear soup, or whisk for a thicker consistency.",
+            "Add black pepper and salt. Serve hot. Excellent for bloating and recovery."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Moong_Dal_Soup.jpg"
+    },
+    {
+        "name": "Brown Rice with Dal",
+        "ingredients": [
+            "brown rice",
+            "tur dal",
+            "vegetables"
+        ],
+        "health_tag": "diabetic",
+        "instructions": [
+            "Soak brown rice for 1 hour before cooking (it takes longer than white rice).",
+            "Boil or pressure cook the rice until tender.",
+            "Cook dal with added vegetables like spinach or bottle gourd for extra fiber.",
+            "Serve a small portion of brown rice with a large portion of dal. The fiber helps manage blood sugar."
+        ],
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400"
+    },
+    {
+        "name": "Ginkgo Biloba Tea",
+        "ingredients": [
+            "ginkgo biloba leaves (dried or fresh)",
+            "water",
+            "honey"
+        ],
+        "health_tag": "stomach_friendly",
+        "instructions": [
+            "Boil 1 cup of water in a pan.",
+            "Add 1 teaspoon of dried ginkgo biloba leaves or a few fresh leaves.",
+            "Simmer on low heat for 5-7 minutes to extract the nutrients.",
+            "Strain the tea into a cup. Add honey for a touch of sweetness if desired.",
+            "Drink warm. It's known for supporting cognitive function and circulation."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Food_-_Tea_--_Smart-Servier.png"
+    },
+    {
+        "name": "Turmeric Milk",
+        "ingredients": [
+            "milk",
+            "turmeric powder",
+            "black pepper",
+            "honey (optional)",
+            "cinnamon"
+        ],
+        "health_tag": "cough_cold",
+        "instructions": [
+            "Pour 1 cup of milk into a small saucepan and heat over medium-low heat.",
+            "Whisk in 1/2 teaspoon of turmeric powder, a pinch of black pepper, and a small piece of cinnamon.",
+            "Bring the mixture to a gentle simmer (do not boil) for 5 minutes.",
+            "Turn off the heat. Remove the cinnamon stick.",
+            "Stir in honey or maple syrup if desired for sweetness.",
+            "Pour into a mug and drink warm before bed to soothe a cough or sore throat."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Haldi_Doodh.jpg"
+    },
+    {
+        "name": "Hot Vegetable Soup",
+        "ingredients": [
+            "carrots",
+            "beans",
+            "garlic",
+            "ginger",
+            "black pepper",
+            "salt"
+        ],
+        "health_tag": "fever_recovery",
+        "instructions": [
+            "Finely chop all vegetables (carrots, beans, etc.) and mince the garlic and ginger.",
+            "Heat a little butter or oil in a pot and sauté garlic and ginger for a minute.",
+            "Add the vegetables and sauté for 2-3 minutes.",
+            "Add 3-4 cups of water and bring to a boil.",
+            "Reduce heat and simmer until the vegetables are tender.",
+            "Add salt and black pepper to taste. Serve steaming hot."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Cooking_Delicious_Food.jpg"
+    }
+]
