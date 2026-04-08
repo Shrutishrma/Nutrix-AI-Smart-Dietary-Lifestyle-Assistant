@@ -1,0 +1,24 @@
+# --- Frontend (React/Vite) ---
+# Ignores the huge library folder
+node_modules/
+# Ignores your local build files
+dist/
+# Ignores private environment variables
+.env
+.env.local
+
+# --- Backend (Python/FastAPI) ---
+# Ignores Python's automated cache folders
+__pycache__/
+*.pyc
+# Ignores specific log and debug files from your backend
+error_trace.log
+diag_layer1_out.txt
+# Ignores API keys used in your services
+.env
+
+# --- System & Editor ---
+# Ignores your local VS Code settings
+.vscode/
+.DS_Store
+Thumbs.db
